@@ -1,0 +1,72 @@
+<mjml>
+    <mj-head>
+        <mj-title>Cart Abandonment</mj-title>
+        <mj-preview>
+            You left something in your cart!
+        </mj-preview>
+        <mj-attributes>
+            <mj-text align="center" />
+            
+        </mj-attributes>
+        <mj-style>
+           
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#f0f0f0">
+        <mj-wrapper background-color="white" padding-top="0" >
+            <mj-section>
+                <mj-column width="43%">
+                    <mj-text font-size="30px">
+                        <strong>YOUR</strong> LOGO
+                    </mj-text>
+                    <mj-divider  />
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0">
+                <mj-column width="100%">
+                    <mj-image src="./images/cart.jpeg" alt="" />
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0">
+                <mj-column width="100%">
+                    <mj-text font-size="30px" font-weight="bold">
+                        You forget something!
+                    </mj-text>
+                    <mj-text font-size="20px" padding="10px 50px" line-height="30px">
+                        Don't worry, we saved it for you. Plus as a new customer, you het 10% off your first order!
+                    </mj-text>
+                    <mj-text font-size="12px" padding-bottom="4px">
+                        use this at checkout:
+                    </mj-text>
+                    <mj-text font-size="25px" color="white"  padding-top="0 " >
+                        <span style="background-color:darkgreen; padding:0.5px 10px;">COUPON CODE</span>
+                    </mj-text>
+                    <mj-text font-size="12px">
+                        %% offfff %%
+                    </mj-text>
+                    <mj-button color="white" background-color="#ce7100" font-size="20px" padding="20px">
+                        Checkout Now >>
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ce7100" >
+                <mj-column width="100%">
+                    <mj-text >
+                        <img src="./svg/facebook.svg" alt="facebook" width="27px" style="padding: 0 10px" >
+                        <img src="./svg/instagram.svg" alt="instagram" width="27px" style="padding: 0 10px">
+                        <img src="./svg/twitter.svg" alt="twitter" width="27px" style="padding: 0 10px">
+                        <img src="./svg/linkedin.svg" alt="linkedin" width="27px" style="padding: 0 10px">
+                    </mj-text>
+                    <mj-text padding-top="25px" padding-bottom="25px">
+                        <strong>Your Company Name</strong>
+                        <span style="display:block; padding-top:4px">Almawasi khan younis Palestine</span>
+                    </mj-text>
+                    <mj-text>
+                        Don't want to receive cart reminder emails? <a href="">Unsubscribe</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+      
+        </mj-wrapper>
+    </mj-body>
+</mjml> 
